@@ -9,3 +9,7 @@
 
 
 ## Использование
+```php
+$binaryMultiplier = new BinaryMultiplier();
+$multipleProduct = $binaryMultiplier.getMultipleProduct(10); // 20
+```

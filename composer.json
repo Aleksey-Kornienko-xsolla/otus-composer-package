@@ -1,0 +1,5 @@
+{
+    "name": "a.kornienko/otus-composer-package",
+    "type": "library",
+    "require": {}
+}

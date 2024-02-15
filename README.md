@@ -13,5 +13,5 @@ composer require a.kornienko/otus-composer-package
 ## Использование
 ```php
 $binaryMultiplier = new BinaryMultiplier();
-$multipleProduct = $binaryMultiplier.getMultipleProduct(10); // 20
+$multipleProduct = $binaryMultiplier->getMultipleProduct(10); // 20
 ```

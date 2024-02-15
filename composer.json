@@ -1,5 +1,10 @@
 {
     "name": "a.kornienko/otus-composer-package",
     "type": "library",
+    "autoload": {
+        "psr-4": {
+            "AKornienko\\OtusComposerPackage\\": "src/"
+        }
+    },
     "require": {}
 }

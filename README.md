@@ -6,7 +6,9 @@
 - PHP 8.2
 
 ## Установка
-
+```
+composer require a.kornienko/otus-composer-package
+```
 
 ## Использование
 ```php
